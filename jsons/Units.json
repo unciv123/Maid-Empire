@@ -66,7 +66,7 @@
 		"replaces": "Mechanized Infantry",
 		"uniqueTo": "Maid Empire",
 		"movement": 3,
-		"strength": 90,
+		"strength": 95,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics"
 		"uniques": ["Can move after attacking"],
@@ -169,7 +169,7 @@
 		"interceptRange": 2,
 		"cost": 375,
 		"requiredTech": "Combustion",
-		"uniques": ["Can attack submarines", "[40]% chance to intercept air attacks", "Bonus vs City 25%",
+		"uniques": ["Can attack submarines", "[40]% chance to intercept air attacks", "Bonus vs City 95%",
 			"May withdraw before melee ([50]%)", "Bonus vs WaterSubmarine 100%", "Can move after attacking"],
 	},
 	{
@@ -177,8 +177,8 @@
 		"unitType": "WaterRanged",
 		"uniqueTo": "Maid Empire",
 		"movement": 6,
-		"strength": 95,
-		"rangedStrength": 45,
+		"strength": 128,
+		"rangedStrength": 55,
 		"interceptRange": 2,
 		"range": 2,
 		"cost": 375,
@@ -194,7 +194,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Maid Empire",
 		"replaces": "Great General",
-		"uniques": ["Can start an [8]-turn golden age", "Bonus for units in 2 tile radius 75%", "Can construct [Citadel]",
+		"uniques": ["Can start an [8]-turn golden age", "Bonus for units in 3 tile radius 175%", "Can construct [Citadel]",
 			"Great Person - [War]", "Unbuildable", "+1 Visibility Range", "Invisible to others"],
 		"movement": 3
 	},
