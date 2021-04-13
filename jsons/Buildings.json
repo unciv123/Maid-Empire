@@ -5,7 +5,7 @@
 		"uniqueTo": "Maid Empire",
 		"maintenance": 1,
 		"happiness": 10,
-		"cityStrength": 5,
+		"cityStrength": 15,
 		"cost": 90,
 		"uniques": ["Remove extra unhappiness from annexed cities", "[+5 culture] once [Archaeology] is discovered"],
 		"requiredTech": "Mathematics"
