@@ -15,7 +15,7 @@
 		"outerColor": [0,0,140],
 		"innerColor": [255,255,255],
 		"uniqueName": "Maid Policies",
-		"uniques": ["[+5 Production, +1 Culture] from every specialist", "+1 happiness in each city",
+		"uniques": ["[+15 Production, +5 Culture] from every specialist", "+1 happiness in each city",
 			"[+1 Happiness, +1 Culture] from every [Castle]", "+[95]% combat bonus for units fighting in [Friendly Land]"],
 		"cities": ["Maidlyopolis", "Cordelia", "Maria", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
 			"Hammann", "Farin K. EHRLICHKEIT", "Noel K. EHRLICHKEIT", "Aqua", "Kaoru", "Wilhelmina CARMEL", "Lizlet L. CHELSIE", "Mahoro", "Hazuki",
